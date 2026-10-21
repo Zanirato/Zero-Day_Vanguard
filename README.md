@@ -1,5 +1,5 @@
 
-# Zero-Day Vanguard 🛡️
+<img width="1010" height="236" alt="image" src="https://github.com/user-attachments/assets/3e10e082-0322-4f2b-9457-bcf2e1e20611" />
 
 ## 1. Quem somos?
 
