@@ -9,7 +9,8 @@
 
 <br>
 
-## 2. Descrição do Projeto
+## 2. Descrição do Projeto <img width="20" height="20" alt="Scott" src="https://github.com/user-attachments/assets/dd1c619a-cc48-48bb-b39c-39b1e61955eb" />
+
 
 ### 2.1- Contexto e Justificativa
 
